@@ -1,0 +1,571 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:3857"
+        }
+    },
+    "features": [
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359582.9762,
+                    5617663.564199999
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359525.7819,
+                    5617663.411700003
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359457.15,
+                    5617663.1071000025
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359402.8509,
+                    5617662.8213
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359339.1209,
+                    5617664.535999998
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359288.2513,
+                    5617664.250200003
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359229.3814,
+                    5617663.258000001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359159.9281,
+                    5617663.919500001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359106.0191,
+                    5617663.919500001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359040.9315,
+                    5617662.332000002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359579.7739,
+                    5617494.899599999
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359522.5796,
+                    5617494.747100003
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359453.9477,
+                    5617494.442500003
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359399.6486,
+                    5617494.1567
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359335.9186,
+                    5617495.871399999
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359285.049,
+                    5617495.585600004
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359226.1791,
+                    5617494.5934000015
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359156.7258,
+                    5617495.254900001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359102.8168,
+                    5617495.254900001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359037.7292,
+                    5617493.6674000025
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359582.0495,
+                    5617337.2456
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359524.8552,
+                    5617337.093099996
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359456.2233,
+                    5617336.7885000035
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359401.9242,
+                    5617336.502700001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359338.1942,
+                    5617338.2173999995
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359287.3246,
+                    5617337.931599997
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359228.4547,
+                    5617336.939400002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359159.0014,
+                    5617337.600900002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359105.0924,
+                    5617337.600900002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359040.0048,
+                    5617336.013400003
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359581.1874,
+                    5617172.592299998
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359523.9931,
+                    5617172.439800002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359455.3612,
+                    5617172.135200001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359401.0621,
+                    5617171.849399999
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359337.3321,
+                    5617173.564099997
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359286.4625,
+                    5617173.278300002
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359227.5926,
+                    5617172.2861
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359158.1393,
+                    5617172.9476
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359104.2303,
+                    5617172.9476
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        },
+        {
+            "type": "feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10359039.1427,
+                    5617171.360100001
+                ],
+                "crs": null
+            },
+            "properties": {
+                "TextField": "cc"
+            }
+        }
+    ]
+}
